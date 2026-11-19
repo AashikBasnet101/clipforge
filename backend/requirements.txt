@@ -1,0 +1,11 @@
+fastapi>=0.115,<1
+uvicorn>=0.34,<1
+sqlalchemy>=2.0,<2.1
+psycopg[binary]>=3.2,<4
+alembic>=1.15,<2
+celery[redis]>=5.5,<6
+python-multipart>=0.0.22,<1
+argon2-cffi>=23,<26
+email-validator>=2,<3
+httpx>=0.28,<1
+boto3>=1.38,<2
